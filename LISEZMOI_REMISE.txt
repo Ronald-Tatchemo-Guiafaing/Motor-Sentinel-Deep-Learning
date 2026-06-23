@@ -1,0 +1,14 @@
+﻿REMISE PROJET MOTEUR SENTINEL
+Etudiant : Ronald Tatchemo Guiafaing — IUC
+
+Structure :
+  01_Rapport/          Compte rendu LaTeX + figures (compiler Compte_Rendu_Guiafaing_Ronald.tex)
+  02_TP1_Simulink/     Analyse Simulink + modele .slx
+  03_TP2_Dataset/      Generation 3000 echantillons
+  04_TP3_Spectrogrammes/
+  05_TP4_Features/
+  06_TP5_Modelisation/  MLP, CNN, LSTM
+  07_TP6_Deploiement/  CNN + detecteur Simulink
+  08_Donnees/          Datasets et resultats (.mat)
+
+Pour reproduire : ouvrir MATLAB, cd vers MATLAB-Course, addpath Projet_DL_Guiafaing_Ronald.

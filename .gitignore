@@ -1,0 +1,15 @@
+# Large datasets (regenerate with TP scripts)
+08_Donnees/Dataset_Moteur.mat
+08_Donnees/Dataset_Images_Pret.mat
+08_Donnees/*.mat
+
+# LaTeX build artifacts
+01_Rapport/*.aux
+01_Rapport/*.log
+01_Rapport/*.out
+01_Rapport/*.pdf
+01_Rapport/*.synctex.gz
+
+# OS
+.DS_Store
+Thumbs.db
